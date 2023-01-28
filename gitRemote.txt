@@ -1,0 +1,7 @@
+1.Github Account
+2.Empty Repo
+3.Local System
+	git config --global user.name ""
+	git config --global user.email ""
+4.git push -u origin master
+
